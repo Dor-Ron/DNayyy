@@ -6,4 +6,4 @@ A bioinformatics web app for FASTA file analysis using express, react, chartJS, 
 
 ---
 
-Live at: [DNace](http://dnace.herokuapp.com/)
+Live at: [DNace](http://dnace.herokuapp.com/) {Deprecated due to Heroku service discontinuation}
